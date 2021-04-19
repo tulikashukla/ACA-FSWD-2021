@@ -41,8 +41,9 @@ _Note that Command Prompt is not case sensitive_
 Client-side refers to the actions that are performed by the client.A client is a computer application, like a web browser that runs on the user's computer,smartphone or any other such device and links to the server.  
 
 
-## Serverside
+## Server-side
 
+Server-side refers to operations that are performed by the server . A server is a computer application, such as a web server.Operations may be performed server-side because they require access to information or functionality that is not available to client, or because performing such operations on client side would be slow, insecure or unreliable.Server-side operations include those performed in response to client requests as well as those which perform maintenance tasks. 
 
 ## HTTP Protocols
 
